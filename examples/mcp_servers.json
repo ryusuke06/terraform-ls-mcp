@@ -1,0 +1,7 @@
+{
+  "terraform-ls": {
+    "command": "/path/to/terraform-ls-mcp",
+    "args": ["serve"],
+    "description": "Terraform Language Server MCP integration"
+  }
+}
